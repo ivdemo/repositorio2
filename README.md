@@ -2,6 +2,11 @@
 
 ## titulo H2 de segundo nivel
 
-###### titulo H6 (el mas pequeño)
+###### titulo H6 (el más pequeño)
 
-Segundo repositorio de ejemplo en SMX2
+Segundo repositorio en _cursiva_ en __negrita__ de ejemplo en SMX2
+Los estilos se pueden **_anidar_**
+
+Listas ordenadas
+1. Primer elemento de la lista
+2. Segundo elemento de la lista
