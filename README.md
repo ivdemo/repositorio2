@@ -26,7 +26,7 @@ Esto es un parrafo jfcuwaer yuavbyudabvyrabyi buvarivbyurbvuoabrv urbvuyrbyr byv
 
 hs baenvuaenbhudbuia eyvuebaryvsziovnyaruobgnao rbyvboaivbybvupian yroaegubaneuibvhraeionbuair eygbiubnruebnrupnbruznaui arueigbruinvzjsibguiarg airhbguaingajibguirangui argbuiaguiearbgeb urbnaru bvaureibgaueibnavu iuigbayubgaei gyabgeiriar bgreuibgaybgagba yugavyuagbabvyuavbaur ayubgyuabvyoavbryubv yubrgubguyabygua byuabyabgy8are b urbgau ybgyarb haburgybagyuabrgyusbrvuyr byubgarbgay brybg ru brabugybrayguabr ubybgyaubgraubgyau bgatbg ayrbgr bayogbragrabg  r agybg ugbaryguebau.
 
-``
+```
 <html>
     <head>
     <head>
@@ -34,7 +34,7 @@ hs baenvuaenbhudbuia eyvuebaryvsziovnyaruobgnao rbyvboaivbybvupian yroaegubaneui
         <p> Esto es un codigo HTML </p>
     <body>
 <html>
-``
+```
 
 [link](https://code.visualstudio.com/docs/?dv=win "Enlace a Visual Studio")
 
