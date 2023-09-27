@@ -44,6 +44,7 @@ hs baenvuaenbhudbuia eyvuebaryvsziovnyaruobgnao rbyvboaivbybvupian yroaegubaneui
 |Col 3 es|Derecha|1500€|
 
 ###### Examen
--[ ] Opcion A
--[X] Opcion B
--[ ] Opcion C
+
+- [ ] Opcion A
+- [X] Opcion B
+- [ ] Opcion C
