@@ -40,5 +40,5 @@ hs baenvuaenbhudbuia eyvuebaryvsziovnyaruobgnao rbyvboaivbybvupian yroaegubaneui
 
 |Titulo |Alineacion | Precios|
 |----------|:----------:|--------:|
-|Col 3 es|centrada|$500|
-|Col3 es|Derecha|1500€|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
