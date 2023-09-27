@@ -35,6 +35,10 @@ hs baenvuaenbhudbuia eyvuebaryvsziovnyaruobgnao rbyvboaivbybvupian yroaegubaneui
     <body>
 <html>
 ```
-
 [link](https://code.visualstudio.com/docs/?dv=win "Enlace a Visual Studio")
 ![Oso Kebab](https://github.com/ivdemo/repositorio2/blob/main/35d5bb0b8359f719f7d69bcbe4229e70.png "Titulo opcional")
+
+|Titulo |Alineacion | Precios|
+|----------|:----------:|--------:|
+|Col 3 es|centrada|$500|
+|Col3 es|Derecha|1500€|
